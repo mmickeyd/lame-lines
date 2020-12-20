@@ -12,10 +12,3 @@ node_modules/
 ## Compiled Dirs (http://nodejs.org/api/addons.html) ##
 build/
 dist/bundle.js
-
-## ESlint files ##
-.eslintrc.js
-.eslintignore
-
-
-README.md
