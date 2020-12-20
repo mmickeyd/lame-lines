@@ -1,5 +1,6 @@
 ## Installation ##
 ```
+npm install webpack@4
 npm install
 ```
 

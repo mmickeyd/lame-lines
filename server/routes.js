@@ -7,4 +7,8 @@ app.use(express.static(__dirname + '/../dist'));
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
+/* ==================== CRUD API REQUESTS ====================== */
+
+/* ============================================================= */
+
 module.exports = app;
