@@ -1,0 +1,21 @@
+## MAC files ##
+.DS_Store
+
+## NPM ##
+npm
+npm-debug.log
+node_modules/
+
+## Environment variables ##
+.env
+
+## Compiled Dirs (http://nodejs.org/api/addons.html) ##
+build/
+dist/bundle.js
+
+## ESlint files ##
+.eslintrc.js
+.eslintignore
+
+
+README.md
