@@ -4,6 +4,8 @@ npm install webpack@4
 npm install
 ```
 
+## THIS IS ALSO SETUP TO USE CSS MODULES ##
+
 ------------------------------------------------------------------
 
 ## Project Name ##

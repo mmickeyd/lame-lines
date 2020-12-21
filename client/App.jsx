@@ -1,10 +1,9 @@
-const {React} = window;
-const {useState, useEffect} = React;
-
+import React from 'react';
+import { useState, useEffect } from 'react';
 import axios from 'axios';
 
 const App = () => {
-  const [state, setState] = useState(null);
+  const [state, setState] = useState(false);
 
   useEffect(() => {
     axios.get('/filepath')
